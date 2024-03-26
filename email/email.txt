@@ -1,0 +1,46 @@
+Structure
+- Introduce yourselves
+  - A undergrade student at FPT University
+- Introduce your current work
+  - Working on comparision between multiple model for sign-language translation from text to video as an graduate project
+- What I need
+  - I need a dataset using as a baseline to compare between different model
+- My current problem
+  - Cannot find a central place to download entire dataset
+- What you can help
+  - Provide me a way to download the dataset
+- What I will do with the dataset
+  - I will use this dataset to train on different model and also use it as a final validation dataset to compare performance between models
+- Promise
+ - I will send you the project paper and cite your dataset correctly
+
+
+Subject: Assistance Needed: Request for Sign Language Translation Dataset
+
+To whom it may concern,
+
+I hope this email finds you well.
+My name is [Your Name], an undergraduate student at FPT University in Vietnam.
+Currently, I am undertaking a graduate project focusing on the comparison between multiple models for sign language translation from text to video.
+
+I am seeking a suitable dataset to serve as a baseline for comparing the performance of various models.
+Your dataset stands out due to its comprehensive nature, featuring diverse dialogues and individuals from various regions.
+I am confident that your dataset aligns perfectly with the requirements of my project.
+
+Unfortunately, I have encountered difficulties in finding a central repository from which I can download the entire dataset.
+I am reaching out to you in the hope that if you could show me way to download this dataset.
+
+I intend to utilize this dataset for training different models and for final validation.
+I assure you that your dataset will be used responsibly and that proper citation will be given in my project paper.
+
+I look forward to your response.
+Please feel free to reach out to me if you require any further information.
+
+Thank you for considering my request.
+
+Best regards,
+
+
+
+
+
